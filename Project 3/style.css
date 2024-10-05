@@ -34,7 +34,7 @@ html,body{
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment:fixed;
 
 }
 .ptext{

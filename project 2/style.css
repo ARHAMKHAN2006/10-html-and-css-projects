@@ -11,12 +11,14 @@ body {
 .container {
     max-width: 900px;
     margin: 0 auto;
+    background-color: rgb(47, 10, 233);
+    color: white;
 }
 
 .apply_box {
     max-width: 600px;
     padding: 20px;
-    background-color: white;
+    background-color:rgb(27, 17, 87);
     margin: 0 auto;
     margin-top: 50px;
     box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
@@ -65,7 +67,7 @@ input:focus {
 }
 
 button {
-    background-color: red;
+    background-color: rgb(51, 124, 221);
     border: transparent solid 2px;
     padding: 5px 10px;
     color: white;
